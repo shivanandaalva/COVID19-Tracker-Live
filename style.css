@@ -41,6 +41,6 @@ body{
 line-height: 1px;
 font-size:14px;
   overflow-y:scroll;
-   height:100%;
-   display:block;
+   height:50%;
+ 
 }
