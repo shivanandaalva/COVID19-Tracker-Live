@@ -40,4 +40,7 @@ body{
   max-width: 1200px;
 line-height: 1px;
 font-size:14px;
+  overflow-y:scroll;
+   height:100%;
+   display:block;
 }
