@@ -42,5 +42,5 @@ line-height: 1px;
 font-size:14px;
   overflow-y:scroll;
    height:50%;
- 
+  overflow:hidden;
 }
